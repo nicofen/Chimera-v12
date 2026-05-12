@@ -62,6 +62,18 @@ Chimera v12 is the result of merging two powerful but separate trading systems:
 - **53-test integration suite** — verifies every component independently
 
 ---
+## Details to understand
+### LangGraph 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250604121817931255/What-is-LangGraph_.webp" alt="What is LangGraph - GeeksforGeeks"/>
+### Alpha Vantage
+<img src="https://i.ytimg.com/vi/LBuHa8Ymw-0/maxresdefault.jpg" alt="Alpha Vantage MCP for Stock Market Data"/>
+### Options Wheel Explained Simply
+<img width="843" height="167" alt="image" src="https://github.com/user-attachments/assets/ba360056-3c21-4b1a-9d05-d4e953f0ac1e" />
+### HITL
+<img width="843" height="167" alt="image" src="https://github.com/user-attachments/assets/2459d0da-2f0b-43b6-99aa-ee9343e20ceb" />
+### Black-Scholes
+<img src="https://www.investopedia.com/thmb/gXvipKIbYI--7IdNBlD4_5-PkbA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Black-Scholes-Model-FINAL-1-18b2378c6f894a15b5904289870aa532.jpg" alt="Black-Scholes Model: What It Is, How It Works, and the ..."/>
+
 
 ## 2. Architecture Overview
 
@@ -126,6 +138,8 @@ Chimera v12 is the result of merging two powerful but separate trading systems:
 ```
 
 ---
+ADX: <img src="https://www.investopedia.com/thmb/uhAJAWLw_GaZZc6K7YyfcVfjnug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_Final_ADX_The_Trend_Strength_Indicator_Sep_2020-01-e6f5e79d222343cc83b23d75312f09ce.jpg" alt="ADX Explained: How to Measure and Trade Trend Strength"/><img width="1500" height="996" alt="image" src="https://github.com/user-attachments/assets/02ec81e3-f6c7-41f7-b155-ba3ffe622ba9" />
+
 
 ## 3. System Data Flow
 
